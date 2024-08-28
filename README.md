@@ -39,4 +39,4 @@ Using this extension, users will get full marks in exams, tests, placements, cou
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/sauravhathi/neopa/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/sauravhathi/neopa/blob/master/LICENSE) file for details.

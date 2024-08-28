@@ -36,8 +36,8 @@ Using this extension, users will get full marks in exams, tests, placements, cou
 
 ## Available Shortcuts
 
-- `Alt + X` or `Ctrl + Alt + X` - To show/hide the extension.
-- `Alt + Z` or `Ctrl + Alt + Z` - To auto-answer the questions.
+- `Alt + X` or `Ctrl + Alt + X` or `Cmd + X` - To show/hide the extension.
+- `Alt + Z` or `Ctrl + Alt + Z` or `Cmd + Z` - To auto-answer the questions.
 
 ## License
 

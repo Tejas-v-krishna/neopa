@@ -2,6 +2,8 @@
 
 Using this extension, users will get full marks in exams, tests, placements, courses.
 
+`Note:` Avoid attempting the test before the date specified in the Google form. Doing so will reduce your remaining tests by one. you can only attempt the maximum number of tests specified in the Google form.
+
 ## Features
 
 - **Supported**: Supports all types of tests (MCQs, Coding, etc.).

@@ -32,6 +32,11 @@ Using this extension, users will get full marks in exams, tests, placements, cou
 - Press `Alt + Z` for auto-answering.
 - If it's a coding question, place the cursor in the editor and then press `Alt + Z`.
 
+## Available Shortcuts
+
+- `Alt + X` or `Ctrl + Alt + X` - To show/hide the extension.
+- `Alt + Z` or `Ctrl + Alt + Z` - To auto-answer the questions.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/sauravhathi/neopa/blob/main/LICENSE) file for details.

@@ -27,12 +27,12 @@ Using this extension, users will get full marks in exams, tests, placements, cou
 2. A pop-up modal will appear if not then press `Alt + X` or Refresh the page.
 3. Use your email and secret key to activate the extension.
 4. To activate the extension, click on the `Pay Now` button.
-5. Ensure that the number of remaining tests is greater than 0 after activation.
+5. Ensure that the number of remaining tests is greater than 0 and Status is `Active` after activation.
 6. You can only `attempt` the test selected by the date in the Google form.
-7. To show/hide the extension, press `Alt + X`.
+7. To show/hide the extension, press `Alt + X`. Default is hidden.
 8. To attempt the test:
-- Press `Alt + Z` for auto-answering.
-- If it's a coding question, place the cursor in the editor and then press `Alt + Z`.
+    - Press `Alt + Z` for auto-answering.
+    - If it's a coding question, place the cursor in the editor and then press `Alt + Z`.
 
 ## Available Shortcuts
 

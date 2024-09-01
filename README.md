@@ -16,6 +16,10 @@ Using this extension, users will get full marks in exams, tests, placements, cou
   <a href="https://www.youtube.com/watch?v=qC0li-N9YQw"><img src="https://i.ytimg.com/vi/qC0li-N9YQw/sddefault.jpg" alt="Examly"></a>
 </div>
 
+<div align="center">
+   <img src="https://github.com/user-attachments/assets/4990b867-0cbe-4556-a956-d8f4fb977588" alt="sample" style="width: 70%">
+</div>
+
 ## Installation
 
 1. Clone the repository.

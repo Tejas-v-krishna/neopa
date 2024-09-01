@@ -39,7 +39,7 @@
   "version_name": "Release Version",
   "web_accessible_resources": [
     {
-      "resources": ["minifyedrdr.js"],
+      "resources": ["minifyeddr.js"],
       "matches": ["<all_urls>"]
     }
   ]

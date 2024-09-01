@@ -12,6 +12,9 @@ Using this extension, users will get full marks in exams, tests, placements, cou
 
 ## Demo Video
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=qC0li-N9YQw"><img src="https://i.ytimg.com/vi/qC0li-N9YQw/sddefault.jpg" alt="Examly"></a>
+</div>
 
 ## Installation
 
